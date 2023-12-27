@@ -49,7 +49,3 @@ Clique aqui para visualizar meu [Portfólio](https://luisamuzzi.github.io/portfo
 - Estatística
 - DataViz
 - Python
-
-
-
-![Snake animation](https://github.com/luisamuzzi/luisamuzzi/blob/output/github-contribution-grid-snake.svg)
