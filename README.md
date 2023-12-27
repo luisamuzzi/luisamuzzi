@@ -36,6 +36,12 @@ Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes e doutorand
 
 ##
 
+### Portfólio de projetos:
+
+Clique aqui para visualizar meu [Portfólio](https://luisamuzzi.github.io/portfolio_projetos/) 
+
+##
+
 ### 📖 Estudando atualmente:
 - Métricas de negócio
 - Machine Learning
