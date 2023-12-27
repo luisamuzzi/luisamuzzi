@@ -18,11 +18,12 @@ Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes e doutorand
 <div style="display: inline_block"><br>
   <img align="center" alt="Luisa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luisa-Jupyter" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Luisa-Anaconda" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
+  <img align="center" alt="Luisa-R" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="Luisa-RStudio" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />          
+  <img align="center" alt="Luisa-Git" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Luisa-Pandas" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Luisa-SQLite" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-  <img align="center" alt="Luisa-Anaconda" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
-  <img align="center" alt="Luisa-R" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />          
-  <img align="center" alt="Luisa-Git" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />          
            
 </div>
   
@@ -48,3 +49,7 @@ Clique aqui para visualizar meu [Portfólio](https://luisamuzzi.github.io/portfo
 - Estatística
 - DataViz
 - Python
+
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
