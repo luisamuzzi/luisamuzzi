@@ -39,7 +39,7 @@ Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes pela UFMG e
 
 ### Portfólio de projetos:
 
-Clique aqui para visualizar meu [Portfólio](https://luisamuzzi.github.io/portfolio_projetos/) 
+Clique aqui para visualizar meu [Portfólio](https://luisamuzzi.github.io/portfolio_projetos/). 
 
 ##
 
