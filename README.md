@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência de Dados, área na qual desenvolvo projetos de portfólio buscando simular problemas de negócio reais.  
 
-Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes e doutoranda na mesma área. Atuo desde 2020 como pesquisadora de Pós-Graduação, adquirindo várias das habilidades necessárias a uma cientista de dados, como curiosidade, familiaridade com dados, formulação de perguntas e hipóteses de pesquisa e inovação. 
+Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes pela UFMG e doutoranda na mesma área na UFPE. Atuo desde 2020 como pesquisadora de Pós-Graduação, adquirindo várias das habilidades necessárias à uma cientista de dados, como curiosidade, familiaridade com dados, formulação de perguntas e hipóteses de pesquisa e inovação. 
 
 ##
 
