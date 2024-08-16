@@ -1,8 +1,6 @@
-## Olá! Eu sou a Luísa Muzzi!
+## Hello there!
 
-Estudo Ciência de Dados, área na qual desenvolvo projetos de portfólio buscando simular problemas de negócio reais.  
-
-Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes pela UFMG e doutoranda na mesma área na UFPE. Atuo desde 2020 como pesquisadora de Pós-Graduação, adquirindo várias das habilidades necessárias à uma cientista de dados, como curiosidade, familiaridade com dados, formulação de perguntas e hipóteses de pesquisa e inovação. 
+I'm a civil engineer who took interest in Data Science after working for four years as a Graduate Researcher.
 
 ##
 
@@ -14,7 +12,7 @@ Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes pela UFMG e
 
 ##
 
-### Algumas ferramentas com as quais trabalho:
+### Some tools I work with:
 <div style="display: inline_block"><br>
   <img align="center" alt="Luisa-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Luisa-Jupyter" <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -35,7 +33,7 @@ Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes pela UFMG e
   
   ##
 
- ### Contato:
+ ### Contact information:
 <div> 
   <a href="https://www.linkedin.com/in/luisamuzzi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
@@ -45,11 +43,14 @@ Sou formada em Engenharia Civil pela UFMG, sou mestra em Transportes pela UFMG e
 
 ##
 
-### Portfólio de projetos:
+### Portfolio:
 
-Clique aqui para visualizar meu [Portfólio](https://luisamuzzi.github.io/portfolio_projetos/). 
+Click here to view my [Portfolio](https://luisamuzzi.github.io/portfolio_projetos/). 
 
 ##
 
-### 📖 Estudando atualmente:
+### 📖 Currently studying:
+- Python
+- Statistics
+- Storytelling
 - Machine Learning
