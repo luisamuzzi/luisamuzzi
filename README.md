@@ -1,6 +1,10 @@
 ## Hello there!
 
-I'm a civil engineer who took interest in Data Science after working for four years as a Graduate Researcher.
+Welcome to my data science and analytics repository. 
+
+I'm a Civil Engineering PhD student who became interested in Data Science after working for four years as a Graduate Researcher.
+
+I'm a level II Advisor for the State Secretariat for Infrastructure, Mobility, and Partnerships (in Minas Gerais, Brazil) and work auditing revenue data.
 
 ##
 
@@ -52,5 +56,5 @@ Click here to view my [Portfolio](https://luisamuzzi.github.io/portfolio_projeto
 ### 📖 Currently studying:
 - Python
 - Statistics
-- Storytelling
 - Machine Learning
+- Storytelling
