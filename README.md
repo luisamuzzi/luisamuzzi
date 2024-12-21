@@ -54,7 +54,6 @@ Click here to view my [Portfolio](https://luisamuzzi.github.io/portfolio_projeto
 ##
 
 ### 📖 Currently studying:
-- Python
+- SQL
 - Statistics
-- Machine Learning
-- Storytelling
+- DataViz
