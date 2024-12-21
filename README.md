@@ -37,6 +37,12 @@ I'm a level II Advisor for the State Secretariat for Infrastructure, Mobility, a
   
   ##
 
+### Portfolio:
+
+Click here to view my [Portfolio](https://luisamuzzi.github.io/portfolio_projetos/). 
+
+##
+ 
  ### Contact information:
 <div> 
   <a href="https://www.linkedin.com/in/luisamuzzi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -44,12 +50,6 @@ I'm a level II Advisor for the State Secretariat for Infrastructure, Mobility, a
   <a href="https://medium.com/@luisamuzzi" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 </div>
-
-##
-
-### Portfolio:
-
-Click here to view my [Portfolio](https://luisamuzzi.github.io/portfolio_projetos/). 
 
 ##
 
