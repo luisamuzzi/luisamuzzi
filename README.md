@@ -2,9 +2,10 @@
 
 Welcome to my data science and analytics repository. 
 
-I'm a Civil Engineering PhD student who became interested in Data Science after working for four years as a Graduate Researcher.
+I work as a Data Analyst auditing revenue data.
 
-I work auditing revenue data as a level II Advisor for the State Secretariat for Infrastructure, Mobility, and Partnerships (in Minas Gerais, Brazil).
+I'm a Civil Engineering PhD student who became interested in Data Science and Analytics after working for four years as a Researcher.
+
 
 ##
 
