@@ -4,7 +4,7 @@ Welcome to my data science and analytics repository.
 
 I work as a Data Analyst auditing revenue data.
 
-I'm a Civil Engineering PhD student who became interested in Data Science and Analytics after working for four years as a Researcher.
+I'm an Engineering PhD who became interested in Data Science and Analytics after working for four years as a Researcher.
 
 
 ##
