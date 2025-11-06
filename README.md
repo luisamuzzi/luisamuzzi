@@ -2,7 +2,7 @@
 
 Welcome to my data science and analytics repository. 
 
-I work as a Data Analyst auditing revenue data, analysing traffic data, building data visualizations, and providing useful business insights.
+I work as a Data Analyst auditing and analysing revenue and traffic data, building data visualizations, optimizing processes, and providing useful business insights.
 
 I'm an Engineering PhD who became interested in Data Science and Analytics after working for four years as a Researcher.
 
