@@ -61,7 +61,5 @@ Click here to view my [Portfolio](https://luisamuzzi.github.io/portfolio_projeto
 ##
 
 ### 📖 Currently studying:
-- Statistics
-- Python
-- Data pipelines
 - DataViz
+- Statistics
