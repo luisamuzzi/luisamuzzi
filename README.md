@@ -63,3 +63,4 @@ Click here to view my [Portfolio](https://luisamuzzi.github.io/portfolio_projeto
 ### 📖 Currently studying:
 - Machine Learning
 - Statistics
+- Software Engineering for Data Science
